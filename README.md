@@ -46,9 +46,9 @@ Women that never smoked are said to have better health than those who are former
 2. Which are the 3 most common health conditions that women affected by heart disease suffer from? 
 
 The most common health conditions are:
-Angina
-Stroke
-Diabetes
+Angina (coef: 2.89),
+Stroke (coef: 1.56),
+COPD (coef: 0.85)
 
 3. Among women, which ethnicity suffers more from a heart attack? And in which age range? 
 
